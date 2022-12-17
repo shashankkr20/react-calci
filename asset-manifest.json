@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-calci/static/css/main.d58f12c1.css",
-    "main.js": "/react-calci/static/js/main.851898b4.js",
+    "main.css": "/react-calci/static/css/main.b1cb7a5a.css",
+    "main.js": "/react-calci/static/js/main.52e655b2.js",
     "index.html": "/react-calci/index.html",
-    "main.d58f12c1.css.map": "/react-calci/static/css/main.d58f12c1.css.map",
-    "main.851898b4.js.map": "/react-calci/static/js/main.851898b4.js.map"
+    "main.b1cb7a5a.css.map": "/react-calci/static/css/main.b1cb7a5a.css.map",
+    "main.52e655b2.js.map": "/react-calci/static/js/main.52e655b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.d58f12c1.css",
-    "static/js/main.851898b4.js"
+    "static/css/main.b1cb7a5a.css",
+    "static/js/main.52e655b2.js"
   ]
 }
