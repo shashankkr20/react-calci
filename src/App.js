@@ -1,25 +1,16 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
+import Header from "./component/Header"
+import Calci from './component/Calci';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+function App(){
+  return(
+          <>
+            <Header title="Calci Master"/>
+            <Calci/>
+          </>
+  )
+  
 }
 
 export default App;

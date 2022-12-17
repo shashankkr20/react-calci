@@ -1,0 +1,19 @@
+.head{
+    display: flex;
+    position: relative;
+    width:99.4vw;
+    height:14vh;
+    border-bottom: 2px solid aquamarine;
+}
+h2{
+    margin: auto 1em;
+}
+ul{
+    display: flex;
+    
+}
+li{
+    font-size: x-large;
+    margin: auto 1em;
+    list-style: none;
+}
