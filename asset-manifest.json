@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-calci/static/css/main.d58f12c1.css",
+    "main.js": "/react-calci/static/js/main.851898b4.js",
+    "index.html": "/react-calci/index.html",
+    "main.d58f12c1.css.map": "/react-calci/static/css/main.d58f12c1.css.map",
+    "main.851898b4.js.map": "/react-calci/static/js/main.851898b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d58f12c1.css",
+    "static/js/main.851898b4.js"
+  ]
+}
